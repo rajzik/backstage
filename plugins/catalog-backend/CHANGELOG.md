@@ -1,5 +1,20 @@
 # @backstage/plugin-catalog-backend
 
+## 0.9.1
+
+### Patch Changes
+
+- 1b8e28aed: Resolve the `target` for glob `file` locations correctly
+- dcd5a93a9: Correctly add `<source>/project-slug` annotation for new catalog-info.yaml PRs based on SCM integration.
+- 62579ced6: Skip adding entries to the `entities_search` table if their `key` exceeds a length limit.
+- Updated dependencies [c7dad9218]
+- Updated dependencies [65e6c4541]
+- Updated dependencies [68fdbf014]
+- Updated dependencies [5001de908]
+  - @backstage/backend-common@0.8.1
+  - @backstage/integration@0.5.3
+  - @backstage/catalog-model@0.7.10
+
 ## 0.9.0
 
 ### Minor Changes

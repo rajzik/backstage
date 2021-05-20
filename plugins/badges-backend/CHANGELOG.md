@@ -1,5 +1,17 @@
 # @backstage/plugin-badges-backend
 
+## 0.1.5
+
+### Patch Changes
+
+- a286a6397: Fix generated badge links
+- Updated dependencies [c7dad9218]
+- Updated dependencies [65e6c4541]
+- Updated dependencies [68fdbf014]
+- Updated dependencies [5001de908]
+  - @backstage/backend-common@0.8.1
+  - @backstage/catalog-model@0.7.10
+
 ## 0.1.4
 
 ### Patch Changes

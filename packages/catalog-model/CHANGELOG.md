@@ -1,5 +1,11 @@
 # @backstage/catalog-model
 
+## 0.7.10
+
+### Patch Changes
+
+- 68fdbf014: Add the `status` field to the Entity envelope
+
 ## 0.7.9
 
 ### Patch Changes

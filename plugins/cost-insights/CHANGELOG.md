@@ -1,5 +1,17 @@
 # @backstage/plugin-cost-insights
 
+## 0.10.0
+
+### Minor Changes
+
+- 7cbfcae48: support jsx in alert titles
+
+### Patch Changes
+
+- 5914a76d5: Added example client
+- Updated dependencies [65e6c4541]
+  - @backstage/core@0.7.10
+
 ## 0.9.1
 
 ### Patch Changes

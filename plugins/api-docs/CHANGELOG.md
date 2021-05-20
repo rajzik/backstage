@@ -1,5 +1,15 @@
 # @backstage/plugin-api-docs
 
+## 0.4.14
+
+### Patch Changes
+
+- 65e6c4541: Remove circular dependencies
+- Updated dependencies [65e6c4541]
+- Updated dependencies [68fdbf014]
+  - @backstage/core@0.7.10
+  - @backstage/catalog-model@0.7.10
+
 ## 0.4.13
 
 ### Patch Changes

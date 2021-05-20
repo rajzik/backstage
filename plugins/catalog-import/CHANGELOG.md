@@ -1,5 +1,16 @@
 # @backstage/plugin-catalog-import
 
+## 0.5.7
+
+### Patch Changes
+
+- ca6e0ab69: Make UI errors friendlier when importing existing components
+- Updated dependencies [65e6c4541]
+- Updated dependencies [68fdbf014]
+  - @backstage/core@0.7.10
+  - @backstage/integration@0.5.3
+  - @backstage/catalog-model@0.7.10
+
 ## 0.5.6
 
 ### Patch Changes
